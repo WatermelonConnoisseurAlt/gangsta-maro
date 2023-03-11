@@ -29,7 +29,7 @@
   "IncludedFiles": [],
   "isEcma": false,
   "MetaData": {
-    "IDEVersion": "2023.1.1.62",
+    "IDEVersion": "2023.1.0.58",
   },
   "resources": [
     {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},"order":0,},
